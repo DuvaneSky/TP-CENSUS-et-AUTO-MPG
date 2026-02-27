@@ -1,0 +1,6 @@
+
+%%writefile requirements.txt
+streamlit
+pandas
+scikit-learn
+pickle
